@@ -188,18 +188,6 @@ AI & AUTOMATION
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danlavie&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danlavie&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm interested in collaborating on projects involving:
